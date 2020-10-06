@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Location Game</string>
+    <string name="main_screen">TBD</string>
+    <string name="play_game">Play</string>
+    <string name="highscores">Highscores</string>
+    <string name="exit">Exit</string>
+    <string name="seconds_left">"Seconds left: "</string>
+</resources>
